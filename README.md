@@ -1,1 +1,3 @@
 # propertymanager
+
+readme file
